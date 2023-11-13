@@ -1,0 +1,14 @@
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\PesquisaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\PesquisaBinaria.AssemblyInfoInputs.cache
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\PesquisaBinaria.AssemblyInfo.cs
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\PesquisaBinaria.csproj.CoreCompileInputs.cache
+C:\Github\Algorithms\PesquisaBinaria\bin\Debug\net7.0\PesquisaBinaria.exe
+C:\Github\Algorithms\PesquisaBinaria\bin\Debug\net7.0\PesquisaBinaria.deps.json
+C:\Github\Algorithms\PesquisaBinaria\bin\Debug\net7.0\PesquisaBinaria.runtimeconfig.json
+C:\Github\Algorithms\PesquisaBinaria\bin\Debug\net7.0\PesquisaBinaria.dll
+C:\Github\Algorithms\PesquisaBinaria\bin\Debug\net7.0\PesquisaBinaria.pdb
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\PesquisaBinaria.dll
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\refint\PesquisaBinaria.dll
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\PesquisaBinaria.pdb
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\PesquisaBinaria.genruntimeconfig.cache
+C:\Github\Algorithms\PesquisaBinaria\obj\Debug\net7.0\ref\PesquisaBinaria.dll
