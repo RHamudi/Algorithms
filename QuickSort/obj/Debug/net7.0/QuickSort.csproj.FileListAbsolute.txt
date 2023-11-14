@@ -1,0 +1,14 @@
+C:\Github\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.exe
+C:\Github\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.deps.json
+C:\Github\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.runtimeconfig.json
+C:\Github\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.dll
+C:\Github\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.pdb
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.AssemblyInfoInputs.cache
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.AssemblyInfo.cs
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.dll
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\refint\QuickSort.dll
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.pdb
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.genruntimeconfig.cache
+C:\Github\Algorithms\QuickSort\obj\Debug\net7.0\ref\QuickSort.dll
