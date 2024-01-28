@@ -1,0 +1,14 @@
+C:\Github\Algorithms\Dijkstra\bin\Debug\net7.0\Dijkstra.exe
+C:\Github\Algorithms\Dijkstra\bin\Debug\net7.0\Dijkstra.deps.json
+C:\Github\Algorithms\Dijkstra\bin\Debug\net7.0\Dijkstra.runtimeconfig.json
+C:\Github\Algorithms\Dijkstra\bin\Debug\net7.0\Dijkstra.dll
+C:\Github\Algorithms\Dijkstra\bin\Debug\net7.0\Dijkstra.pdb
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\Dijkstra.AssemblyInfo.cs
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\Dijkstra.dll
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\refint\Dijkstra.dll
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\Dijkstra.pdb
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\Dijkstra.genruntimeconfig.cache
+C:\Github\Algorithms\Dijkstra\obj\Debug\net7.0\ref\Dijkstra.dll
